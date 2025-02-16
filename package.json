@@ -2,7 +2,7 @@
   "name": "fancy-date-widget",
   "version": "1.0.4",
   "description": "A simple fancy date picker for React",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir dist",
     "prepare": "npm run build"
